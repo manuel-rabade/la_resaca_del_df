@@ -11,20 +11,22 @@ Ciudad de México.
 
 El objetivo de *La resaca del DF* es mostrar la relación entre
 contingencias ambientales en la ciudad y festividades utilizando datos del
-[Sistema de Monitoreo Atmosferico de la Ciudad de
+[Sistema de Monitoreo Atmosférico de la Ciudad de
 México](http://www.aire.df.gob.mx).
 
-Puedes consultar *La resca del DF* en:
+Puedes consultar *La resaca del DF* en:
 
 - [Página de Código para la Ciudad de
   México](http://codigo.labplc.mx/vistec/aire/)
 - [Portal de Animal
-  Politico](http://www.animalpolitico.com/2013/12/la-resaca-del-df-cuanto-contaminan-los-festejos/)
+  Político](http://www.animalpolitico.com/2013/12/la-resaca-del-df-cuanto-contaminan-los-festejos/)
 
 Capturas de pantalla
 --------------------
 
-![Publicacion Animal Politico](/doc/la_resaca_del_df_nota.png?raw=true)
+![Publicación en Animal Político](/doc/la_resaca_del_df_nota.png?raw=true)
+
+![Draft Código para la Ciudad de México](/doc/la_resaca_del_df_nota.png?raw=true)
 
 Bibliotecas
 -----------
