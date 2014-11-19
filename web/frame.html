@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.13/d3.min.js"></script>
+    <script type="text/javascript" src="RadarChart.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+  </head>
+  <body>
+    <div id="body">
+
+      <div id="ilustracion"></div>
+
+      <p>La resaca no es exclusiva de los capitalinos después de los
+        días festivos. La Ciudad de México también sufre con las
+        emisiones de contaminantes que dejan la quema de cohetes, el
+        encendido de fogatas o el excesivo uso de automóviles. Y así
+        como cada bebida alcohólica provoca diferentes “crudas”, cada
+        festividad -10 de mayo, 15 de septiembre, Navidad, etc.-
+        también causa distintos tipos de contaminación.</p>
+
+      <p>Ahora que inician los festejos decembrinos, la Secretaría de
+        Medio Ambiente (SMA) del DF advierte de las consecuencias que
+        dejan a la salud. “La gente cree que por un día de festejo no
+        pasa nada”, advierte Armando Retama, director de Monitoreo
+        Atmosférico de la dependencia, “pero son varios días al año que
+        sí tienen impacto en la salud de todos y hay que empezar a tomar
+        conciencia”.</p>
+          
+      <p>La quema de cohetes en Navidad, Año Nuevo o el Día de la
+        Independencia, disparan las partículas suspendidas en al aire
+        que impactan en el sistema respiratorio o el corazón, sumado
+        a las bajas temperaturas del invierno. “Los colores de los
+        cohetes se obtienen a partir de óxidos metálicos que son
+        tóxicos y peligrosos para la salud”, advierte Retama.</p>
+
+      <p>El Día de las Madres o el 14 de febrero, por el contrario,
+        disparan el ozono por el uso del auto durante una temporada con
+        elevadas radiaciones solares. “El ozono también tiene efectos
+        en la salud, aunque disminuyen con el tiempo”, agrega el
+        funcionario.</p>
+
+      <p>El creciente culto a San Judas Tadeo, que se celebra el 28 de
+        octubre, también se refleja en el aumento de partículas
+        suspendidas que ha dejado durante los últimos años.</p>
+
+      <div style="clear: both;"></div>
+
+      <div id="grafica">
+        <p id="contaminantes"><a id="o3" class="active" href="#">Ozono</a>&nbsp;|&nbsp;
+          <a id="pm10" href="#">Particulas suspendidas</a></p>
+        <div id="radar"></div>
+        <p id="unidades">Ozono en partes por billón</p>
+      </div>
+      
+      <div id="menu">
+        <p>Estás viendo la gráfica de la contaminación del Día del
+          Amor, entre 2003 y 2012. Puedes elegir entre Ozono y
+          Partículas Suspendidas, u otros festejos, para comparar sus
+          concentraciones.</p>
+        <h2><a id="14feb" href="#" class="active">14 de Febrero</a></h2>        
+        <h2><a id="10may" href="#">10 de Mayo</a></h2>
+        <h2><a id="15sep" href="#">15 y 16 de Septiembre</a></h2>
+        <h2><a id="28oct" href="#">28 de Octubre</a></h2>
+        <h2><a id="24dic" href="#">24 y 25 de Diciembre</a></h2>
+        <h2><a id="31dic" href="#">31 de Diciembre y<br/>1 de Enero</a></h2>
+      </div>
+      
+      <div style="clear: both;"></div>
+
+      <p>“La Ciudad debe comenzar a cambiar el modo en que realiza sus
+        celebraciones”, señala Retama, “la gente debe ser más más
+        responsable de la contaminación que genera”.</p>
+
+      <p>El 25 de diciembre de 2012 y el 1 de enero de este año, por
+        ejemplo, se activaron precontingencias ambientales, a causa de
+        las partículas suspendidas.</p>
+      
+      <p>“Hay que buscar actividades que tengan un impacto menor en el
+        ambiente y por la salud de todos. La Ciudad debe cambiar. Los
+        usos y costumbres se deben actualizar a nuestra realidad”,
+        considera el especialista.</p>
+
+
+      <p><strong>Metodología</strong></p>
+
+      <p>Se utilizaron datos de la Red Automática de Monitoreo
+        Atmosférico (RAMA), de la Secretaría del Medio Ambiente del DF
+        (SEDEMA), de 2003 a 2012. Para obtener los valores de cada
+        festividad, se hizo un promedio de los valores máximos de cada
+        día, tres días antes y tres después. Para las festividades que
+        son asueto oficial, se compararon los valores máximos de las
+        18:00 hrs del día que inicia hasta las 6:00 hrs del día
+        siguiente. Para los no oficiales, las 24 horas completas. Todos
+        los datos utilizados pueden ser consultados en:
+        <a href="https://www.dropbox.com/sh/mrtdkincuuzp26k/7QDp8Qk4_H">https://www.dropbox.com/sh/mrtdkincuuzp26k/7QDp8Qk4_H</a></p>
+      
+      <p>Datos estadísticos obtenidos de la Red Automático de Monitoreo
+        Atmonsférica (RAMA) de la Secretaría del Medio Ambiente del
+        Distrito Federal, pueden ser consultados
+        en: <a href="http://datos.labplc.mx/datasets/view/rama">http://datos.labplc.mx/datasets/view/rama</a></p>
+
+      <h2>Equipo</h2>
+      <p>Rafael Cabrera (<a href="http://twitter.com/raflescabrera">@raflescabrera</a>)</p>
+      <p>Jonathan Jiménez Mendoza (<a href="http://twitter.com/JohnnieJM06">@JohnnieJM06</a>)</p>
+      <p>Elena Cruz (<a href="https://twitter.com/todologiamaam">@todologiamaam</a>)</p>
+      <p>Manuel Rábade García (<a href="http://twitter.com/manuelrabade">@manuelrabade</a>)</p>
+
+    </div>
+  </body>
+</html>

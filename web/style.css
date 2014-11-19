@@ -1,0 +1,81 @@
+body {
+    margin: 0 auto;
+    width: 645px;
+    font-size: 15px;
+    font-family: Georgia,​ serif;
+    line-height: 21px;
+    background-color: #F5F6F8;
+}
+
+#header {
+    height: 150px;
+    padding: 10px 0;
+}
+
+h1 {
+    font-size: 30px;
+    color: #192029;
+    line-height: 35px;
+}
+
+.bajada {
+    color: #96999F;
+    font-family: Arial,sans-serif;
+    line-height: 18px;
+}
+
+.fecha {
+    color: #FF1B35;
+    font-family: Arial,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#ilustracion {
+    width: 645px; 
+    height: 425px;
+    margin: 10px 0;
+    background-image: url('ilustracion.jpg');
+}
+
+#menu {
+    width: 220px;
+}
+
+#menu p {
+    padding: 40px 0;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+h2 a {
+    color: black;
+    font-weight: normal;
+}
+
+.active {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#grafica {
+    width: 400px; 
+    float: right;
+    margin: 15px 0;
+}
+
+#contaminantes {
+    text-align: center;
+}
+
+#contaminantes a {
+    color: black;
+}
+
+#unidades {
+    font-size: 12px;
+    text-align: center;
+    height: 30px;
+}
