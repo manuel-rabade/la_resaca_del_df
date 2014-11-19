@@ -24,9 +24,13 @@ Puedes consultar *La resaca del DF* en:
 Capturas de pantalla
 --------------------
 
+**Publicación en Animal Político**
+
 ![Publicación en Animal Político](/doc/la_resaca_del_df_nota.png?raw=true)
 
-![Draft Código para la Ciudad de México](/doc/la_resaca_del_df_nota.png?raw=true)
+**Borrador en Código para la Ciudad de México**
+
+![Draft Código para la Ciudad de México](/doc/la_resaca_del_df_draft.png?raw=true)
 
 Bibliotecas
 -----------
