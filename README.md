@@ -2,24 +2,23 @@ La resaca del DF
 ================
 
 Producto creado durante el [VisTec: Taller de periodismo y visualización
-de datos](http://labplc.mx/vistec/).
+de datos](http://labplc.mx/vistec/), puedes consultarlo en:
 
-El VisTec reunió a programadores, diseñadores, analistas de datos y
-periodistas para producir visualizaciones interactivas que se publicaran
-en distintos medios digitales a partir de datos de dependencias de la
-Ciudad de México.
+- [Portal de Animal
+  Político](http://www.animalpolitico.com/2013/12/la-resaca-del-df-cuanto-contaminan-los-festejos/)
+
+- [Página de Código para la Ciudad de
+  México](http://codigo.labplc.mx/vistec/aire/)
 
 El objetivo de *La resaca del DF* es mostrar la relación entre
 contingencias ambientales en la ciudad y festividades utilizando datos del
 [Sistema de Monitoreo Atmosférico de la Ciudad de
 México](http://www.aire.df.gob.mx).
 
-Puedes consultar *La resaca del DF* en:
-
-- [Página de Código para la Ciudad de
-  México](http://codigo.labplc.mx/vistec/aire/)
-- [Portal de Animal
-  Político](http://www.animalpolitico.com/2013/12/la-resaca-del-df-cuanto-contaminan-los-festejos/)
+El VisTec reunió a programadores, diseñadores, analistas de datos y
+periodistas para producir visualizaciones interactivas que se publicaran
+en distintos medios digitales a partir de datos de dependencias de la
+Ciudad de México.
 
 Capturas de pantalla
 --------------------
@@ -44,7 +43,7 @@ Autores
 
 - [Elena Cruz](http://twitter.com/todologiamaam)
 - [Rafael Cabrera](http://twitter.com/raflescabrera)
-- [Jonathan Jiménez](@johnniejm06)
+- [Jonathan Jiménez](http://twitter.com/johnniejm06)
 - [Manuel Rábade](http://twitter.com/manuelrabade)
 
 Licencia
