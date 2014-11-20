@@ -6,7 +6,6 @@ de datos](http://labplc.mx/vistec/), puedes consultarlo en:
 
 - [Portal de Animal
   Político](http://www.animalpolitico.com/2013/12/la-resaca-del-df-cuanto-contaminan-los-festejos/)
-
 - [Página de Código para la Ciudad de
   México](http://codigo.labplc.mx/vistec/aire/)
 
