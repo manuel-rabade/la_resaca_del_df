@@ -2,7 +2,7 @@ La resaca del DF
 ================
 
 Producto creado durante el [VisTec: Taller de periodismo y visualización
-de datos](http://labplc.mx/vistec/), puedes consultarlo en:
+de datos](http://labplc.mx/vistec/) publicado en:
 
 - [Portal de Animal
   Político](http://www.animalpolitico.com/2013/12/la-resaca-del-df-cuanto-contaminan-los-festejos/)
@@ -22,11 +22,11 @@ Ciudad de México.
 Capturas de pantalla
 --------------------
 
-**Publicación en Animal Político**
+### Publicación en Animal Político
 
 ![Publicación en Animal Político](/doc/la_resaca_del_df_nota.png?raw=true)
 
-**Borrador en Código para la Ciudad de México**
+### Borrador en Código para la Ciudad de México
 
 ![Draft Código para la Ciudad de México](/doc/la_resaca_del_df_draft.png?raw=true)
 
