@@ -48,7 +48,7 @@ Autores
 Licencia
 --------
 
-Esta obra está bajo una [Licencia Creative Commons
+Esta obra es publicada bajo una [Licencia Creative Commons
 Atribución-NoComercial-SinDerivar 4.0 Internacional](Esta obra está bajo
 una Licencia Creative Commons Atribución-NoComercial-SinDerivar 4.0
 Internacional).
